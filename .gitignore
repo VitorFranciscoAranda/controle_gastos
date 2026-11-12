@@ -1,0 +1,8 @@
+# Arquivos compilados que o Python cria sozinho
+__pycache__/
+
+# Meus gastos de verdade ficam só no meu computador
+dados/gastos.json
+
+# Explicações de estudo de cada etapa
+docs/Etapas/
